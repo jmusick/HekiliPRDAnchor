@@ -1,0 +1,7 @@
+## Interface: 100007
+## Title: Hekili PRD Anchor
+## Notes: Repositions the Hekili addon to the Personal Resource Display
+## Author: Xing
+## Version: 1.0
+
+HekiliPRDAnchor.lua
